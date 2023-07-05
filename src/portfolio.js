@@ -34,8 +34,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/goyalpramod",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  linkedin: "https://www.linkedin.com/in/goyalpramod/",
+  gmail: "goyalpramod1729@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -49,14 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A CRAZY DATA SCIENTIST WHO WANTS TO DO WONDERS IN THE WORLD OF AI",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Create amazing data analysis and visualization using Python"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Working with latest progress in the ML world like LLMs and Generative AI"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Make complete python applications with FastAPI and Streamlit"
     )
   ],
 
