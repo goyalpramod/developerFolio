@@ -65,56 +65,60 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "devicon-python-plain"
     },
     {
-      skillName: "tensorflow",
+      skillName: "C++",
+      fontAwesomeClassname: "devicon-cplusplus-plain"
+    },
+    {
+      skillName: "TensorFlow",
       fontAwesomeClassname: "devicon-tensorflow-original"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "NumPy",
+      fontAwesomeClassname: "devicon-numpy-original"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Pandas",
+      fontAwesomeClassname: "devicon-pandas-original"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Jupyter",
+      fontAwesomeClassname: "devicon-jupyter-plain"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "Selenium",
+      fontAwesomeClassname: "devicon-selenium-original"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "MySQL",
+      fontAwesomeClassname: "devicon-mysql-plain"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "OpenCV",
+      fontAwesomeClassname: "devicon-opencv-plain"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "FastAPI",
+      fontAwesomeClassname: "devicon-fastapi-plain"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "GCP",
+      fontAwesomeClassname: "devicon-googlecloud-plain"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      skillName: "Docker",
+      fontAwesomeClassname: "devicon-docker-plain"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "devicon-python-plain"
+      skillName: "Git",
+      fontAwesomeClassname: "devicon-git-plain"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Linux",
+      fontAwesomeClassname: "devicon-linux-plain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
