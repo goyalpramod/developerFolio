@@ -130,23 +130,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "NIT Rourkela",
+      logo: require("./assets/images/NIT_Rourkela_Colour_Logo.svg.png"),
+      subHeader: "Bachelor's in Technology",
+      duration: "March 2020 - May 2024",
+      desc: "Electronics and Intrumentation Engineering",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "CGPA: 8.19/10",
+        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
       schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      logo: require("./assets/images/Mother-Public-School-Bapuji-Nagar-Bhubaneswar.png"),
+      subHeader: "CBSE",
+      duration: "March 2018 - March 2020",
+      desc: "11th and 12th grade",
+      descBullets: ["12th Percentage: 95.4%"]
     }
   ]
 };
@@ -368,7 +368,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-9853618169",
-  email_address: "@gmail.com"
+  email_address: "goyalpramod1729@gmail.com"
 };
 
 // Twitter Section
