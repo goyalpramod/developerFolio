@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/goyalpramod",
   linkedin: "https://www.linkedin.com/in/goyalpramod/",
   gmail: "goyalpramod1729@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
+  kaggle: "https://www.kaggle.com/pramodgoyal",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
