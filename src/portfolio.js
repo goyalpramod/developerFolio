@@ -316,10 +316,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@goyalpramod1729/how-i-made-my-first-contribution-to-c4gt-as-someone-who-has-never-worked-in-open-source-6b6c7b71da3b",
+      title: "How I made my first contribution to C4GT as someone who has never worked in open-source",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Learn about steps to contribute to open source for the first time."
     },
     // {
     //   url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
