@@ -141,7 +141,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Mother's Public School",
       logo: require("./assets/images/Mother-Public-School-Bapuji-Nagar-Bhubaneswar.png"),
       subHeader: "CBSE",
       duration: "March 2018 - March 2020",
