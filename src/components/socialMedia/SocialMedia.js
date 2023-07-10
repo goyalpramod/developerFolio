@@ -15,7 +15,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-github"></i>
+          <i className="devicon-github-original"></i>
           <span></span>
         </a>
       ) : null}
@@ -27,7 +27,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-linkedin-in"></i>
+          <i className="devicon-linkedin-plain"></i>
           <span></span>
         </a>
       ) : null}
@@ -39,7 +39,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fas fa-envelope"></i>
+          <i className="devicon-google-plain"></i>
           <span></span>
         </a>
       ) : null}
@@ -123,7 +123,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-kaggle"></i>
+          <i className="devicon-kaggle-original"></i>
           <span></span>
         </a>
       ) : null}
