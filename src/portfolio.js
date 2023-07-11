@@ -182,14 +182,14 @@ const workExperiences = {
       company: "SamagraX",
       companylogo: require("./assets/images/samagra.jpg"),
       date: "July 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Responsible to actively contribute to the open-source community, specifically in the field of Text2sql. This involved collaborating with large language models and working extensively with expansive datasets like the spider and wikisql dataset. My goal was to develop an application capable of receiving a natural language query and a database, and generating the appropriate SQL query to produce accurate outputs."
     },
     {
       role: "Data pipeline engineer intern",
       company: "Stryze the german group",
       companylogo: require("./assets/images/stryze.jpg"),
       date: "October 2022 – January 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Responsible for making automated APIs that would collect data from various sources like eBay, amazon, local websites etc. Also responsible for testing and deployment of the created APIs and Data transformation of the obtained data using DBT.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -200,7 +200,7 @@ const workExperiences = {
       company: "Fellowship.ai",
       companylogo: require("./assets/images/download.png"),
       date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Responsible for making a CLIP model which would take in information about the product or an image of the product, and provide information on all the similar products by competitors available on the market. Streamlit was used to develop the front end and Scrapy was used to scrape competitors’ data."
     }
   ]
 };
@@ -220,28 +220,28 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Logo.png"),
+      projectName: "VastuGuru",
+      projectDesc: "Generate room ideas that adhere to the principles of vast",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://www.visualguru.xyz/"
         }
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
-      ]
-    }
+    // {
+    //   image: require("./assets/images/nextuLogo.webp"),
+    //   projectName: "Nextu",
+    //   projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   footerLink: [
+    //     {
+    //       name: "Visit Website",
+    //       url: "http://nextu.se/"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
